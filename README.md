@@ -229,16 +229,7 @@ results/comparison.csv
 results/accuracy_vs_size.png
 ```
 
-## 9. GitHub Upload Steps
 
-```bash
-git init
-git add .
-git commit -m "Initial MobileNet CIFAR-10 project"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/mobilenet-cifar10-lightweight.git
-git push -u origin main
-```
 
 ## 10. Conclusion
 
